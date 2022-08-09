@@ -5,12 +5,12 @@ I'm a Computer Science almnus experienced in web development, software developme
 ### Technology Exposure
 | Front-End (inc. Framework) | Back-End (incl. Framework) | Database | Operating System | Other(s) |
 | --- | --- | --- | --- | --- |
-| HTML5 | JavaEE | Oracle | CentOS | Elasticsearch |
-| CSS3 | PHP | Redis | Ubuntu (Gnome) | AWS |
-| JavaScript | Python  | MySQL | OSX | Shell scripts |
-| Angular | Spring Boot | Hibernate |  | Github |
-| React |  |  | | Gitlab |
-| Bootstrap |  |  | | Docker |
+| HTML5 | JavaEE | MSSQL | Windows | Elasticsearch |
+| CSS3 | PHP | PLSQL | Ubuntu  | AWS |
+| JavaScript | Python  | MySQL | Mac | Shell scripts |
+| React | Spring Boot |  |  | Github |
+| Bootstrap |  |  | | Gitlab |
+|  |  |  | | Docker |
 | |  |  |  | Terraform |
 | |  |  |  | MVC Pattern |
 
