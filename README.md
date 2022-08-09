@@ -1,7 +1,6 @@
-# dipaliS
-My Personal Repository
+
 ### Hello, Friend. 👋 
-I'm a Computer Science almnus experienced in web development, software development, micro-services architecture and CICD. I'm currently doing DevOps stuff for a SysOps team in Finland.
+I'm a Computer Science almnus experienced in web development, software development. I'm currently doing web developement stuff in ahmedabad gujarat.
 
 ### Technology Exposure
 | Front-End (inc. Framework) | Back-End (incl. Framework) | Database | Operating System | Other(s) |
@@ -16,9 +15,8 @@ I'm a Computer Science almnus experienced in web development, software developme
 | |  |  |  | MVC Pattern |
 
 ### Interests 🤔
-- JAM stack
-- Cryptocurrency
-- NFT games
+- frontend 
+- gaming
 
 ### Fun Fact ⚡ 
-I'm a gamer, seasonal trader 📈📉 and athlete (🏀  and 🏂) who recently moved to Åland Islands, Finland.
+I'm a software devloper, gamer, seasonal trader 📈📉 and athlete (🏀  and 🏂).
