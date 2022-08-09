@@ -19,4 +19,4 @@ I'm a Computer Science almnus experienced in web development. I'm currently doin
 - gaming
 
 ### Fun Fact ⚡ 
-I'm a software devloper 👩‍💻, solo traveller 🚶 and Reader 📚.
+I'm a software developer 👩‍💻, solo traveller 🚶 and Reader 📚.
