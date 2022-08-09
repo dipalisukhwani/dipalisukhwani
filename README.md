@@ -6,13 +6,13 @@ I'm a Computer Science almnus experienced in web development. I'm currently doin
 | Front-End (inc. Framework) | Back-End (incl. Framework) | Database | Operating System | Other(s) |
 | --- | --- | --- | --- | --- |
 | HTML5 | ASP.NET MVC | MSSQL | Windows | Gitlab |
-| CSS3 | ASP.NET Core | PLSQL | Ubuntu  | github |
+| CSS3 | ASP.NET Core | PLSQL | Ubuntu  | Github |
 | JavaScript | C#  | MySQL | Mac | SVN |
-| React | Web API |  |  | BitBucket |
+| JQuery | Web API |  |  | BitBucket |
 | Bootstrap | ADO.NET  |  | | Jira |
-| JQuery | LING |  | | Trello |
+| React | LING |  | | Trello |
 | | Entity Framework |  |  | IIS |
-| | GraphQl |  |  |  |
+| | GraphQL |  |  |  |
 
 ### Interests 🤔
 - frontend 
