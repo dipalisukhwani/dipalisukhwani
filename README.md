@@ -10,7 +10,7 @@ I'm a Computer Science almnus experienced in web development. I'm currently doin
 | JavaScript | C#  | MySQL | Mac | SVN |
 | JQuery | Web API |  |  | BitBucket |
 | Bootstrap | ADO.NET  |  | | Jira |
-| React | LING |  | | Trello |
+| Angular | LING |  | | Trello |
 | | Entity Framework |  |  | IIS |
 | | GraphQL |  |  |  |
 
